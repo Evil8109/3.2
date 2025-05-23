@@ -1,0 +1,104 @@
+img{
+    width: 95px;
+    height: 60px;
+}
+
+header{
+    width: 85%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid orange;
+    margin: auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+button{
+    background-color: chocolate;
+    width: 90px;
+    height: 45px;
+}
+
+button{
+    background-color: chocolate;
+    border: none;
+    border-radius: 15px;
+}
+.ikki{
+    background-color: chocolate;
+    border: none;
+    border-radius: 20px;
+    border-bottom-right-radius: 0px;
+}
+
+span{
+    color: chocolate;
+}
+
+.box img{
+    width: 500px;
+    height: 500px;
+    
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1{
+    font-size: 45px;
+
+}
+
+.h1{
+    font-size: 45px;
+    text-align: center;
+}
+
+.box2{
+    width: 360px;
+}
+
+
+
+
+.gg img{
+    width: 250px;
+    height: 200px;
+}
+.gg div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.gg{
+    width: 250px;
+    height: 350px;
+
+    
+}
+
+.gg2 button{
+    border-radius: 20px;
+    border-bottom-right-radius: 0px;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-around;
+}
+
